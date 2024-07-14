@@ -4,8 +4,8 @@
 Criação de um jogo para deficientes visuais que utiliza a conversão text to speech e espeech to text para realizar as ações
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização;
-Utilizar da Speecjify para conversão speech to text e vise-versa
+- IA Generativa ChatGPT para roteirização;
+- Utilizar da Speechify para conversão speech to text e vise-versa.
 
 ## 🧐 Processo de Criação
 Utilizei do ChatGPT para meu auxiliar na criação de um roteiro bem estruturado e opções de ações disponíveis. Além disso
